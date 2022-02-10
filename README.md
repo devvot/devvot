@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi 👋, I'm Andrew, senior software architect/back end developer who has over 10 years of experience in software engineering.
 
-<!--
-**devtophers/devtophers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on a C#, .NET, Ruby on Rails and Python, Nodejs for back end development and am very proficient in DevOps, AWS and cloud services.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Everything! My father who was teacher taught me to treat each day as though I'm a beginner. You never stop learning!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on back end development, solution architect for robust, high scale back end system for web, mobile application.
+
+🤝 I’m looking to help with RESTful APIs, Back end architect, Database design/development, infrastructure design/development, or anything you want help with!
+
+
+⚡ Fun fact I have a parrot named Emma
+
+
+Proficient in: 
+
+.net, .net core, actionscript, agile, apache, asp.net, atl, aurelia, auth0, assertj, aws, azure, bash, c, c#, c++, canvas, cloud, clustering, cmake, composer, css, cvs, data mining, data structures, db2, ddd, design patterns, docker, dojo, ef core, ehcache, ejb, entityframework, extjs, fastlane, firebase, flyway, freemarker, gerrit, git, gradle, gof, google app engine, google cloud platform, gui, gulp, hadoop, hbase, hibernate, highload, html5, identity server, ioc, java, javaee, javamelody, javascript, jax/rs, jax/ws, jboss, jenkins, jetty, jira, jmeter, jpa, jquery, jsp, jstl, junit, jwt, kubernetes, kotlin, less, linux, lisp, load testing, lucene, maven, memcache, mfc, microservices, mockito, moq, mssql, mvc, mysql, newrelic, nginx, npm, oauth, oauth2, ocr, oracle, perl, performance testing, php, postgis, postgresql, python, rabbitmq, rest, salesforce, scrum, servlets, slack, soa, soap, spring, sql, sql server, svn, tdd, testng, tiles, tomcat, tsc, typescript, webpack, websphere, wicket, windows, windows shell, wtl, xamarin, xp, xunit, ruby, ruby on rails, python
