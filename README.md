@@ -1,4 +1,4 @@
-Hi 👋, I'm Mihailo, senior software architect/back end developer who has over more than 5 years of experience in software engineering.
+Hi 👋, I'm senior software architect/back end developer who has over more than 5 years of experience in software engineering.
 
 🔭 I’m currently working on a C#, .NET, Python, Nodejs for back end development and Angular/React/Typescript for front end. I am also very proficient in DevOps, AWS and cloud services.
 
